@@ -1,8 +1,0 @@
-python3 -m pip install pyinstaller
-
-pyinstaller text:
-python3 -m PyInstaller --onefile --noconsole ^
---icon="app/icons/calculator.ico" ^
---add-data "app/icons;icons" ^
---add-data "app/src;src" ^
-main.py
