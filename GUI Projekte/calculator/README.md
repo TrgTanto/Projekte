@@ -1,3 +1,5 @@
+# Taschenrechner (Python)
+
 Ein moderner Taschenrechner mit grafischer Benutzeroberfläche, entwickelt mit Python und CustomTkinter.
 
 Das Projekt wurde erstellt, um praktische Erfahrung mit GUI-Programmierung, Benutzerinteraktion und Python-Anwendungsentwicklung zu sammeln.
